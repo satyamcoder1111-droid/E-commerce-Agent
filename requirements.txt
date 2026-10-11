@@ -1,0 +1,7 @@
+fastapi[standard]>=0.115,<1.0
+langchain-core
+langchain
+langchain-openai
+langgraph
+streamlit
+python-dotenv
